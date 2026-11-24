@@ -43,6 +43,6 @@ Through this project, I practiced:
 
 ## 👩‍💻 Author
 
-**Shweta **
+Shweta 
 
 Software Developer | Python | Django | Flask | Generative AI
